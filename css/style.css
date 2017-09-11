@@ -1,0 +1,89 @@
+body{
+  border:5px solid black;
+  width:1224px;
+  height:1000px;
+  background-image:url('C:/Users/heave/Repo/fga/projects/New/img/assets/Body Background Image.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  position: relative;
+  left:200px;
+}
+nav{
+  text-align:center;
+}
+nav ul{
+position: relative;
+top:30px;
+}
+nav li{
+display:inline;
+}
+nav a{
+  color:black;
+  text-decoration: none;
+  font-size:20px;
+  font-family: Helvetica;
+  padding:80px;
+}
+hr{
+  width: 700px;
+  background-color:black;
+  height: 4px;
+  position: relative;
+  top:40px;
+}
+.main{
+  width: 632px;
+  height: 708px;
+  background-color: white;
+  position:relative;
+  top:100px;
+  left:300px;
+}
+.main img{
+  border:2px solid blue;
+  position: relative;
+  top:20px;
+  left:210px;
+  width:200px;
+  height: 200px;
+}
+.main h1{
+  border: 2px solid blue;
+  font-size: 40px;
+  color:black;
+  width:450px;
+  position: relative;
+  left:100px;
+}
+.main span{
+  color:#69AAD9;
+}
+.main h3{
+  font-size: 20px;
+  width: 291px;
+  position: relative;
+  left: 180px;
+  bottom:10px;
+}
+.main p{
+  width:440px;
+  height: 250;
+  padding: 10px;
+  margin-left: 90px;
+}
+.main ul{
+  width:700px;
+  position: relative;
+  right:210px;
+  bottom:20px;
+  }
+.main li{
+  display: inline;
+  padding: 40px;
+}
+.main li img{
+  width:100px;
+  height: 100px;
+}
